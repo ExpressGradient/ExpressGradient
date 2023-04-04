@@ -1,5 +1,4 @@
-# Hello there
-Welcome.  
-I write super shit code.  
-Feel free to browse.  
-Bye.
+# Hallo
+I'm Praneeth aka ExpressGradient.  
+I'm a 0.01x Engineer.  
+I don't code much.  
