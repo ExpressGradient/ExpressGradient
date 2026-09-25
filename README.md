@@ -1,3 +1,3 @@
 # Heylo
 
-Baking CuTe DSL kernels
+building better systems
